@@ -11,7 +11,7 @@ Questo progetto ha lo scopo di creare un plugin per il software Insomnia che per
 Faremo i test con la nostra API di LookAuth che è autenticata con Cognito e IAM Signature v4, così da verificare il corretto funzionamento.
 Il plugin permette di settare i parametri di configurazione di Cognito e quelli della IAM Signature V4 indipendentemente.
 
-- Per scaricare il plugin: **https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/insomnia-cognito-plugin**
+- Per scaricare il plugin: **https://github.com/Noovolari/insomnia-plugin-aws-cognito-token.git**
 
 Per installare il plugin abbiamo diverse opzioni:
 
@@ -22,7 +22,7 @@ Per installare il plugin abbiamo diverse opzioni:
 ```
 cd ~/Library/Application\ Support/Insomnia/plugins && \
 
-git clone https://git-codecommit.eu-west-1.amazonaws.com/v1/repos/insomnia-cognito-plugin && \
+git clone https://github.com/Noovolari/insomnia-plugin-aws-cognito-token.git && \
 
 cd insomnia-cognito-plugin && \
 
@@ -72,7 +72,5 @@ Aggiungiamo a questo punto l'autenticazione mediante cognito con il seguente par
 In pratica aggiungiamo come **Content-Type** **application/json** e come **token-id** il parametro **CognitoToken** settato in Environment.
 
 A questo punto siamo pronti per testare la chiamata, se tutti i parametri sono configurati correttamente e la sessione di autenticazione è ovviamente ancora valida avremo una chiamata con successo!
-
-![FinalFinal](images/final.png)
 
 Nota: estendere il plugin per fare il giro completo di SSO per capire il ruolo come interagisce con una chiamata in particolare.
