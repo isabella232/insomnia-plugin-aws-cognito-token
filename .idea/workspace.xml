@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4988cfed-60ee-4e03-b392-a4cb614fc6bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ConfigAuth.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ConfigAuth.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ConfigSig.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/ConfigSig.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tipicalConfigV4Sig.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/tipicalConfigV4Sig.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/where_to_put_config.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/where_to_put_config.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +44,53 @@
       <option name="presentableId" value="Default" />
       <updated>1601649275294</updated>
       <workItem from="1601649276403" duration="805000" />
+      <workItem from="1603984936745" duration="766000" />
     </task>
+    <task id="LOCAL-00001" summary="Added publishConfig to package.json">
+      <created>1603984977758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603984977758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added publishConfig to package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added publishConfig to package.json" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="121" key="#Inspections" timestamp="1603985777588">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="354" y="121" key="#Inspections/0.23.1440.826@0.23.1440.826" timestamp="1603985777588" />
+    <state x="153" y="23" key="CommitChangelistDialog2" timestamp="1603984977551">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="153" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1603984977551" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom" timestamp="1603984987668">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1603984987668" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center" timestamp="1603984987667">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1603984987667" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left" timestamp="1603984987666">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1603984987666" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right" timestamp="1603984987668">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1603984987668" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1603984980702">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1603984980702" />
   </component>
 </project>
