@@ -23,8 +23,8 @@
     "AppSync"
   ],
   "insomnia": {
-    "name": "awscognitotoken",
-    "description": "Plugin for Insomnia to provide Cognito JWT token from AWS"
+    "name": "aws-cognito-token",
+    "description": "Leapp plugin for Insomnia to provide Cognito JWT token from AWS"
   },
   "dependencies": {
     "amazon-cognito-identity-js": "^3.0.5",
